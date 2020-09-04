@@ -1,0 +1,10 @@
+*{
+    font-size: 1.3em;
+    align-items: center;
+    font-family: 'Comic Sans MS';
+    padding-top: 2vh;
+    text-align: center;
+}
+#question {
+    padding-top: 10vh;
+}
